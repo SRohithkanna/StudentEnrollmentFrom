@@ -80,11 +80,11 @@ Click **Reset** to clear fields
 
 ---
 
-## 🕓 Release History
+## 🕓 Flow of the project
 
-* **v1.0 (Initial Release)**
 
-  * Basic UI created using HTML & Bootstrap
+
+  * Basic UI created using HTML 
   * Integrated JsonPowerDB
   * Implemented CRUD operations
   * Form validation added
